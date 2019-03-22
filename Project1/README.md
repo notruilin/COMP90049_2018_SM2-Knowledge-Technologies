@@ -1,9 +1,11 @@
 Project1: Waht kinda typoz do people mak?
 
 Overview
-leveraging spelling correction methods over some given data, to identify the causes of typographical errors made by typical anthors, and to express the ensuing knowledge in a short technical/research report.
+
+Leveraging spelling correction methods over some given data, to identify the causes of typographical errors made by typical anthors, and to express the ensuing knowledge in a short technical/research report.
 
 Marks
+
 16/20
 
 This README describes the data and codes for COMP90049 2018S2, Project 1. 
