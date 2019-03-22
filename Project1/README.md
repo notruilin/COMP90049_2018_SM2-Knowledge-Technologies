@@ -17,6 +17,7 @@ All codes are written in C++ by myself.
 
 
 Reference:
+
 Nicholson, J., Zobel, J., & Verspoor, K. (2018) COMP90049: Approximate Matching, week 3 notes [PowerPoint slides]. 
 	Retrieved from https://app.lms.unimelb.edu.au/bbcswebdav/pid-6595057-dt-content-rid-31507421_2/courses/COM
 P90049_2018_SM2/lectures/05-06-approx.pdf
