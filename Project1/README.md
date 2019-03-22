@@ -1,4 +1,4 @@
-#Project1: Waht kinda typoz do people mak?
+Project1: Waht kinda typoz do people mak?
 
 Overview
 leveraging spelling correction methods over some given data, to identify the causes of typographical errors made by typical anthors, and to express the ensuing knowledge in a short technical/research report.
