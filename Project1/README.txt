@@ -1,3 +1,5 @@
+Project1: Waht kinda typoz do people mak?
+
 This README describes the data and codes for COMP90049 2018S2, Project 1. 
 This archive contains eight files, of which the codes and test results for this Project.  
 These files are described in more detail below.
