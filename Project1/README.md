@@ -1,18 +1,13 @@
-Project1: Waht kinda typoz do people mak?
-
-
-
-Overview
+# Project1: Waht kinda typoz do people mak?
+### Overview
 
 Leveraging spelling correction methods over some given data, to identify the causes of typographical errors made by typical anthors, and to express the ensuing knowledge in a short technical/research report.
 
 
-
-Marks
-
+### Marks
 16/20
 
-
+### README
 
 This README describes the data and codes for COMP90049 2018S2, Project 1. 
 This archive contains eight files, of which the codes and test results for this Project.  
