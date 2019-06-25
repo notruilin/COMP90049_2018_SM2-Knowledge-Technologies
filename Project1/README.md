@@ -4,7 +4,7 @@
 Leveraging spelling correction methods over some given data, to identify the causes of typographical errors made by typical anthors, and to express the ensuing knowledge in a short technical/research report.
 
 
-### Marks
+### Mark
 16/20
 
 ### README
